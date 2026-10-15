@@ -44,3 +44,7 @@ If an upload fails or the board stops showing up, connect RST to GND twice quick
 - **Mic doesn't start:** voice dictation needs you to be signed in to claude.ai, and VS Code needs permission to use the microphone.
 - **Enter doesn't send:** if you've set the extension to send with Ctrl+Enter, change `KEY_RETURN` in the sketch to a Ctrl+Enter combo.
 - **Changing the keys:** edit the key presses in `loop()` and upload again.
+
+## License
+
+MIT. See [LICENSE](LICENSE). This covers the firmware and the 3D files.
