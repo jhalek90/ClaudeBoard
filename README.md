@@ -9,7 +9,11 @@ A two-button macro keyboard shaped like the Claude Code mascot. The eyes are the
 
 ## Hardware
 
-- 3D-printed enclosure (`3d files/`: STL, 3MF and SketchUp sources)
+- 3D-printed enclosure (`3d files/`):
+  - `claudeBoard1.stl`: the top shell
+  - `BottomPanel1.stl`: the bottom panel
+  - `claudeBoard1.3mf` and `ClaudeBoard1.skp`: the print project and the SketchUp source
+- Rubber feet for the bottom panel
 - 2 × mechanical keyboard switches
 - Arduino Pro Micro (ATmega32U4), clones work fine
 
